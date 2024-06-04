@@ -22,3 +22,8 @@ Name your repository, add a brief description, decide if you want it to be publi
 4.Make and Commit Changes
 Click on your repository, open the README file, and click the pencil icon (edit).
 After making changes (like adding a description of your project), scroll down, write a commit message describing your changes, and click on "Commit changes."
+
+5.Branching
+Back in your repository, click on the “Branch: main” button.
+Type a name for your new branch, then click “Create branch.” Now you can make changes without affecting the main branch.
+
